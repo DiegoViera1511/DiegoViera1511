@@ -1,4 +1,4 @@
-<h1 align="left">Hi I'm Diego ! 👨🏻‍💻</h1>
+<h1 align="left">Hi , I'm Diego ! 👨🏻‍💻</h1>
 
 ###
 
@@ -30,9 +30,7 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif"  />
-</div>
+<h2 align="left">Social</h2>
 
 ###
 
@@ -48,5 +46,11 @@
 ###
 
 <p align="left">Be better tomorrow than today ⚡️</p>
+
+###
+
+<div align="center">
+  <img height="86" src="https://mir-s3-cdn-cf.behance.net/9eb1f3acf3a2ddb033fcfb713bede94b/a1aa0154-c86b-464f-ae95-0b9ca47dd4e6_rwc_-2x1256x4320x504x4320.png?h=59580c64db46324dec0ebaaa7a14cb67"  />
+</div>
 
 ###
