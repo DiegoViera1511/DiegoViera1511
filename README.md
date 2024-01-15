@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Diego ! 👨🏻‍💻</h1>
+<h1 align="left">Hi I'm Diego ! 👨🏻‍💻</h1>
 
 ###
 
@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif"  />
+  <img height="150" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif"  />
 </div>
 
 ###
