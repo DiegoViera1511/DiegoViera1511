@@ -20,7 +20,7 @@ Hello! My name is Diego Manuel Viera Martínez, and I am a Computer Science stud
 ![](https://github-profile-trophy.vercel.app/?username=DiegoViera1511&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 ## Socials:
-<a href="diegovieramartinez@gmail.com" target="_blank">
+<a href="mailto:diegovieramartinez@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a><a href="https://web.telegram.org/k/#@viera1511" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
