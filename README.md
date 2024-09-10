@@ -1,3 +1,5 @@
+<img src="A584FC70-4F5B-48C2-95B2-8B683E4D76C3.jpg" alt="Presentation Card" width="2000" height="400"/>
+
 # About Me:
 Hello! My name is Diego Manuel Viera Martínez, and I am a Computer<br>Science student passionate about software development and <br>technology. My native language is Spanish, and I am always looking<br> for new opportunities to learn and grow in the programming world.<br><br>I am a big fan of Apple and love to explore their technologies and <br>ecosystems. I also have a strong interest in game development, <br>where I can apply my creativity and technical skills. I enjoy <br>participating in collaborative projects, where I can use my knowledge <br>and acquire new skills. I am particularly interested in areas such as <br>artificial intelligence, web development, and systems programming.<br><br>My hobbies include creating pixel art and going to the gym to stay <br>healthy and fit. These activities help me stay creative and balanced. <br>I am excited to contribute to open-source projects and collaborate <br>with other technology enthusiasts.<br><br>If you have a project in mind or just want to chat about technology, <br>feel free to reach out!
 
