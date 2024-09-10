@@ -16,9 +16,6 @@ Hello! My name is Diego Manuel Viera Martínez, and I am a Computer Science stud
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DiegoViera1511&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DiegoViera1511&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
 ## Socials:
 <a href="mailto:diegovieramartinez@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
