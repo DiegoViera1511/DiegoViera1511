@@ -13,9 +13,6 @@ Hello! My name is Diego Manuel Viera Martínez, and I am a Computer Science stud
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DiegoViera1511&theme=github_dark_dimmed&hide_border=false)<br/>
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DiegoViera1511&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
-
 ## Socials:
 <a href="mailto:diegovieramartinez@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -24,7 +21,6 @@ Hello! My name is Diego Manuel Viera Martínez, and I am a Computer Science stud
   </a><a href="https://www.instagram.com/viera_1511?igsh=cmJ5MTc2OHZycnNu&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a><a href="https://www.leetcode.com/diegoviera1511" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tcodeforces" height="45" width="55" /></a><a href="https://codeforces.com/profile/diegoviera1511" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="logo" height="45" width="55" /></a>
-
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
