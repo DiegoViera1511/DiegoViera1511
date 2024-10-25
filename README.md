@@ -1,7 +1,16 @@
 <img src="FB215843-64ED-474F-A802-D988780C7774.jpg" alt="Presentation Card" width="2000" height="400"/>
 
 # About Me:
-Hello! My name is Diego Manuel Viera Martínez, and I am a Computer Science student passionate about software development and technology. My native language is Spanish, and I am always looking for new opportunities to learn and grow in the programming world.<br><br>I am a big fan of Apple and love to explore their technologies and ecosystems. I also have a strong interest in game development, where I can apply my creativity and technical skills. I enjoy participating in collaborative projects, where I can use my knowledge and acquire new skills. I am particularly interested in areas such as artificial intelligence, web development, and systems programming.<br><br> My hobbies include creating pixel art and going to the gym to stay healthy and fit. These activities help me stay creative and balanced. I am excited to contribute to open-source projects and collaborate with other technology enthusiasts.<br><br>If you have a project in mind or just want to chat about technology, feel free to reach out!
+My name is Diego Manuel Viera Martinez, and I am a Computer Science professional. I studied at the
+University of Havana, where I developed a solid foundation in various aspects of computing.
+My native language is Spanish, but I am also proficient in English, which enables me to engage with a
+wider community in the tech field.
+<br/><br/>
+I am interested in Full Stack web development, mobile application, artificial
+intelligence, and video games development. I am passionate about learning new technologies and tools that
+enhance my productivity, as well as exploring data structures that improve my programming skills.
+<br/><br/>
+If you have a project in mind or just want to chat about technology, feel free to reach out!
 
 # Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
