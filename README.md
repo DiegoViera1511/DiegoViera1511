@@ -1,5 +1,3 @@
-<img src="FB215843-64ED-474F-A802-D988780C7774.jpg" alt="Presentation Card" width="2000" height="400"/>
-
 # About Me:
 My name is Diego Manuel Viera Martinez, and I am a Computer Science professional. I studied at the
 University of Havana, where I developed a solid foundation in various aspects of computing.
