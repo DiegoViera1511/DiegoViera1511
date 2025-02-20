@@ -1,6 +1,6 @@
 # About Me:
-My name is Diego Manuel Viera Martinez, and I am a Computer Science professional. I studied at the
-University of Havana, where I developed a solid foundation in various aspects of computing.
+My name is Diego Manuel Viera Martinez, and I am a Computer Science. I am studying at the 
+University of Havana, where I am developing a solid foundation in various aspects of computing.
 My native language is Spanish, but I am also proficient in English, which enables me to engage with a
 wider community in the tech field.
 <br/><br/>
